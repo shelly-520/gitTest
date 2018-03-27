@@ -1,4 +1,6 @@
 <?php
+echo "Hello world！";
 
+echo "<br />";
 
-echo 'Hello world!';
+echo "这是第一步";
